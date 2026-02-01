@@ -12,6 +12,10 @@ I also have experience with data analysis and machine learning, which helps me b
 
 Pinned repositories below showcase my learning path in cloud and DevOps.
 
+Tech stack:
+Linux | Windows Server | Bash | Python | Docker | GitHub Actions | PostgreSQL | MS SQL Server  
+Cloud (learning): AWS, Terraform
+
 Fun facts:
 - Big fan of Star Wars 🌌 (yes, the infrastructure must be resilient like the Death Star but better designed)
 - LEGO Star Wars enthusiast 🧱
