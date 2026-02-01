@@ -17,6 +17,6 @@ Linux | Windows Server | Bash | Python | Docker | GitHub Actions | PostgreSQL | 
 Cloud (learning): AWS, Terraform
 
 Fun facts:
-- Big fan of Star Wars 🌌 (yes, the infrastructure must be resilient like the Death Star but better designed)
-- LEGO Star Wars enthusiast 🧱
+- Big fan of Star Wars (yes, the infrastructure must be resilient like the Death Star but better designed)
+- LEGO Star Wars enthusiast
 - I enjoy automating repetitive tasks more than doing them manually
